@@ -1,0 +1,3 @@
+rootProject.name='piEditor'
+include ':sample'
+include ':libeditor'
