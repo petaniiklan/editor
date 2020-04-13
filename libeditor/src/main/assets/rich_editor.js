@@ -30,7 +30,7 @@ document.addEventListener("selectionchange", function() { NZ.backuprange(); });
 // Initializations
 NZ.callback = function() {
     var re_callback = "re-callback://" + encodeURI(NZ.getHtml());
-    // window.location.href = "re-callback://" + encodeURI(NZ.getHtml());
+    // window.location.href = "re-callback://" + encodeURI(RE.getHtml());
 
         var items = [];
 
@@ -47,6 +47,24 @@ NZ.callback = function() {
             items.push('italic');
         }
         if (document.queryCommandState('subscript')) {
+            items.push('subscript');
+        }
+        if (document.queryCommandState('superscript')) {
+            items.push('superscript');
+        }
+        if (document.queryCommandState('strikeThrough')) {
+            items.push('strikeThrough');
+        }
+        if (document.queryCommandState('underline')) {
+            items.push('underline');
+        }
+        if (document.queryCommandState('insertOrderedList')) {
+            items.push('orderedList');
+        }
+        if (document.queryCommandState('insertUnorderedList')) {
+            items.push('unorderedList');
+        }
+        if (document.queryCommandState('justifyCenter')) {
             items.push('justifyCenter');
         }
         if (document.queryCommandState('justifyFull')) {
@@ -61,25 +79,7 @@ NZ.callback = function() {
         if (document.queryCommandState('insertHorizontalRule')) {
             items.push('horizontalRule');
         }
-             items.push('subscript');
-                }
-                if (document.queryCommandState('superscript')) {
-                    items.push('superscript');
-                }
-                if (document.queryCommandState('strikeThrough')) {
-                    items.push('strikeThrough');
-                }
-                if (document.queryCommandState('underline')) {
-                    items.push('underline');
-                }
-                if (document.queryCommandState('insertOrderedList')) {
-                    items.push('orderedList');
-                }
-                if (document.queryCommandState('insertUnorderedList')) {
-                    items.push('unorderedList');
-                }
-                if (document.queryCommandState('justifyCenter')) {
-               var formatBlock = document.queryCommandValue('formatBlock');
+        var formatBlock = document.queryCommandValue('formatBlock');
         if (formatBlock.length > 0) {
             items.push(formatBlock);
         }
