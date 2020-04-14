@@ -37,6 +37,6 @@ dependencies {
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.2.0'
     implementation 'com.github.esafirm.android-image-picker:imagepicker:2.0.0'
 
-//    implementation 'com.github.petaniiklan:editor:0.0.5'
-    implementation project(':libeditor')
+//    implementation 'com.github.petaniiklan:editor:0.0.6'
+//    implementation project(':libeditor')
 }

@@ -34,6 +34,7 @@ public class RichEditor extends WebView {
         SUPERSCRIPT,
         STRIKETHROUGH,
         UNDERLINE,
+        BLOCKQUOTE,
         H1,
         H2,
         H3,
