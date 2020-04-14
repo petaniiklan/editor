@@ -4,7 +4,7 @@ ADDED from D:\Project\LibraryOwn\piEditor\sample\src\main\AndroidManifest.xml:2:
 INJECTED from D:\Project\LibraryOwn\piEditor\sample\src\main\AndroidManifest.xml:2:1-21:12
 INJECTED from D:\Project\LibraryOwn\piEditor\sample\src\main\AndroidManifest.xml:2:1-21:12
 INJECTED from D:\Project\LibraryOwn\piEditor\sample\src\main\AndroidManifest.xml:2:1-21:12
-MERGED from [com.github.petaniiklan:editor:0.0.6] C:\Users\Azalea\.gradle\caches\transforms-2\files-2.1\f10309683909360cdfae106669ce861e\jetified-editor-0.0.6\AndroidManifest.xml:2:1-11:12
+MERGED from [:libeditor] D:\Project\LibraryOwn\piEditor\libeditor\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
 MERGED from [com.github.esafirm.android-image-picker:imagepicker:2.0.0] C:\Users\Azalea\.gradle\caches\transforms-2\files-2.1\a9e547da121f7ab85960918ec5a43eef\jetified-imagepicker-2.0.0\AndroidManifest.xml:2:1-32:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta4] C:\Users\Azalea\.gradle\caches\transforms-2\files-2.1\540f54a853bb5edcd9a1c3c63390e837\constraintlayout-2.0.0-beta4\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Azalea\.gradle\caches\transforms-2\files-2.1\2ef171d946ef3c69b0399d48f59b4965\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
@@ -102,8 +102,8 @@ uses-sdk
 INJECTED from D:\Project\LibraryOwn\piEditor\sample\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from D:\Project\LibraryOwn\piEditor\sample\src\main\AndroidManifest.xml
 INJECTED from D:\Project\LibraryOwn\piEditor\sample\src\main\AndroidManifest.xml
-MERGED from [com.github.petaniiklan:editor:0.0.6] C:\Users\Azalea\.gradle\caches\transforms-2\files-2.1\f10309683909360cdfae106669ce861e\jetified-editor-0.0.6\AndroidManifest.xml:7:5-9:41
-MERGED from [com.github.petaniiklan:editor:0.0.6] C:\Users\Azalea\.gradle\caches\transforms-2\files-2.1\f10309683909360cdfae106669ce861e\jetified-editor-0.0.6\AndroidManifest.xml:7:5-9:41
+MERGED from [:libeditor] D:\Project\LibraryOwn\piEditor\libeditor\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:libeditor] D:\Project\LibraryOwn\piEditor\libeditor\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
 MERGED from [com.github.esafirm.android-image-picker:imagepicker:2.0.0] C:\Users\Azalea\.gradle\caches\transforms-2\files-2.1\a9e547da121f7ab85960918ec5a43eef\jetified-imagepicker-2.0.0\AndroidManifest.xml:7:5-9:41
 MERGED from [com.github.esafirm.android-image-picker:imagepicker:2.0.0] C:\Users\Azalea\.gradle\caches\transforms-2\files-2.1\a9e547da121f7ab85960918ec5a43eef\jetified-imagepicker-2.0.0\AndroidManifest.xml:7:5-9:41
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta4] C:\Users\Azalea\.gradle\caches\transforms-2\files-2.1\540f54a853bb5edcd9a1c3c63390e837\constraintlayout-2.0.0-beta4\AndroidManifest.xml:5:5-7:41
