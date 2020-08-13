@@ -4,7 +4,7 @@
             "outputFile": "D:\\Project\\LibraryOwn\\piEditor\\sample\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v26\\values-v26.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Azalea\\.gradle\\caches\\transforms-2\\files-2.1\\2ef171d946ef3c69b0399d48f59b4965\\appcompat-1.1.0\\res\\values-v26\\values-v26.xml",
+                    "source": "C:\\Users\\Azalea\\.gradle\\caches\\transforms-2\\files-2.1\\c827349da947aee444e6dfc3b97bf066\\appcompat-1.2.0\\res\\values-v26\\values-v26.xml",
                     "from": {
                         "startLines": "2,3,4,8,12,16",
                         "startColumns": "4,4,4,4,4,4",

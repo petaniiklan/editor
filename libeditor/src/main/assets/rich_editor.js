@@ -231,7 +231,12 @@ NZ.setJustifyRight = function() {
 }
 
 NZ.setBlockquote = function() {
-    document.execCommand('formatBlock', false, '<blockquote>');
+    var formatBlockTag = window.getSelection().anchorNode.parentNode.tagName;
+    if (formatBlockTag == "BLOCKQUOTE") {
+        document.execCommand('formatBlock', false, '<p>');
+    } else {
+        document.execCommand('formatBlock', false, '<blockquote>');
+    }
 }
 
 NZ.insertImage = function(url, alt) {
