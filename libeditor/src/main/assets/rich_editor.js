@@ -237,7 +237,6 @@ NZ.setBlockquote = function() {
     } else {
         document.execCommand('formatBlock', false, '<blockquote>');
     }
-//    document.execCommand('formatBlock', false, '<blockquote>');
 }
 
 NZ.insertImage = function(url, alt) {
