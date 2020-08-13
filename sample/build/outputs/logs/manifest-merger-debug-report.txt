@@ -7,10 +7,10 @@ INJECTED from D:\Project\LibraryOwn\piEditor\sample\src\main\AndroidManifest.xml
 MERGED from [:libeditor] D:\Project\LibraryOwn\piEditor\libeditor\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
 MERGED from [com.github.esafirm.android-image-picker:imagepicker:2.0.0] C:\Users\Azalea\.gradle\caches\transforms-2\files-2.1\a9e547da121f7ab85960918ec5a43eef\jetified-imagepicker-2.0.0\AndroidManifest.xml:2:1-32:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta4] C:\Users\Azalea\.gradle\caches\transforms-2\files-2.1\540f54a853bb5edcd9a1c3c63390e837\constraintlayout-2.0.0-beta4\AndroidManifest.xml:2:1-11:12
-MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Azalea\.gradle\caches\transforms-2\files-2.1\2ef171d946ef3c69b0399d48f59b4965\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\Azalea\.gradle\caches\transforms-2\files-2.1\e43b58a0f819bcdf02c88e3ffb1ab09f\jetified-glide-4.9.0\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Azalea\.gradle\caches\transforms-2\files-2.1\c827349da947aee444e6dfc3b97bf066\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\Azalea\.gradle\caches\transforms-2\files-2.1\4759fb75b1d1da3d5921db098379364d\jetified-glide-4.9.0\AndroidManifest.xml:2:1-12:12
 MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Azalea\.gradle\caches\transforms-2\files-2.1\4abf61e98dffcf84648844046782ee11\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Azalea\.gradle\caches\transforms-2\files-2.1\c4f3ff85513190d384826508de50f7ce\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Azalea\.gradle\caches\transforms-2\files-2.1\d634f42408898cb209fa505635befd6e\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Azalea\.gradle\caches\transforms-2\files-2.1\593cac86af6e6026ab2dc63b4e16c7e7\recyclerview-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Azalea\.gradle\caches\transforms-2\files-2.1\11b3dfddab5bfa854539c67b50fb1ae4\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Azalea\.gradle\caches\transforms-2\files-2.1\cd18797837d00e36a14342a6ed43ce99\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
@@ -25,10 +25,10 @@ MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Azalea
 MERGED from [androidx.customview:customview:1.0.0] C:\Users\Azalea\.gradle\caches\transforms-2\files-2.1\210207ef04c78dd1782b5c200162e1e5\customview-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Azalea\.gradle\caches\transforms-2\files-2.1\8f75f46815b4766410c0a405630332d1\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Azalea\.gradle\caches\transforms-2\files-2.1\08c1b51fc1ad0928d0395f5eb26a6929\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.core:core:1.1.0] C:\Users\Azalea\.gradle\caches\transforms-2\files-2.1\9a561d8b045aa4b5db9a341e97c354ca\core-1.1.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.core:core:1.3.0] C:\Users\Azalea\.gradle\caches\transforms-2\files-2.1\6f115ff0acd77371b4667173cbcbc63d\core-1.3.0\AndroidManifest.xml:17:1-26:12
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Azalea\.gradle\caches\transforms-2\files-2.1\a503fe15e8e6fab0e44226c90dfc50d1\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Azalea\.gradle\caches\transforms-2\files-2.1\ae54212dac29ad586b496c7fadefed90\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
-MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\Azalea\.gradle\caches\transforms-2\files-2.1\ee5f4713388dc2a7e0c3b12831b9b120\jetified-gifdecoder-4.9.0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\Azalea\.gradle\caches\transforms-2\files-2.1\2db47abb31c0f73afc7a14fac6bcf653\jetified-gifdecoder-4.9.0\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Azalea\.gradle\caches\transforms-2\files-2.1\59e3df397d2e20dfaa160ebb02a77f32\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Azalea\.gradle\caches\transforms-2\files-2.1\69e448722340bb8257628160f16241f7\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Azalea\.gradle\caches\transforms-2\files-2.1\a6f07314035e4cd08b90d7e974ecb547\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
@@ -62,16 +62,16 @@ MERGED from [com.github.esafirm.android-image-picker:imagepicker:2.0.0] C:\Users
 MERGED from [com.github.esafirm.android-image-picker:imagepicker:2.0.0] C:\Users\Azalea\.gradle\caches\transforms-2\files-2.1\a9e547da121f7ab85960918ec5a43eef\jetified-imagepicker-2.0.0\AndroidManifest.xml:15:5-30:19
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta4] C:\Users\Azalea\.gradle\caches\transforms-2\files-2.1\540f54a853bb5edcd9a1c3c63390e837\constraintlayout-2.0.0-beta4\AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta4] C:\Users\Azalea\.gradle\caches\transforms-2\files-2.1\540f54a853bb5edcd9a1c3c63390e837\constraintlayout-2.0.0-beta4\AndroidManifest.xml:9:5-20
-MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\Azalea\.gradle\caches\transforms-2\files-2.1\e43b58a0f819bcdf02c88e3ffb1ab09f\jetified-glide-4.9.0\AndroidManifest.xml:10:5-20
-MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\Azalea\.gradle\caches\transforms-2\files-2.1\e43b58a0f819bcdf02c88e3ffb1ab09f\jetified-glide-4.9.0\AndroidManifest.xml:10:5-20
-MERGED from [androidx.core:core:1.1.0] C:\Users\Azalea\.gradle\caches\transforms-2\files-2.1\9a561d8b045aa4b5db9a341e97c354ca\core-1.1.0\AndroidManifest.xml:24:5-89
-MERGED from [androidx.core:core:1.1.0] C:\Users\Azalea\.gradle\caches\transforms-2\files-2.1\9a561d8b045aa4b5db9a341e97c354ca\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\Azalea\.gradle\caches\transforms-2\files-2.1\4759fb75b1d1da3d5921db098379364d\jetified-glide-4.9.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\Azalea\.gradle\caches\transforms-2\files-2.1\4759fb75b1d1da3d5921db098379364d\jetified-glide-4.9.0\AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.3.0] C:\Users\Azalea\.gradle\caches\transforms-2\files-2.1\6f115ff0acd77371b4667173cbcbc63d\core-1.3.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.0] C:\Users\Azalea\.gradle\caches\transforms-2\files-2.1\6f115ff0acd77371b4667173cbcbc63d\core-1.3.0\AndroidManifest.xml:24:5-89
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Azalea\.gradle\caches\transforms-2\files-2.1\ae54212dac29ad586b496c7fadefed90\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Azalea\.gradle\caches\transforms-2\files-2.1\ae54212dac29ad586b496c7fadefed90\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
-MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\Azalea\.gradle\caches\transforms-2\files-2.1\ee5f4713388dc2a7e0c3b12831b9b120\jetified-gifdecoder-4.9.0\AndroidManifest.xml:9:5-20
-MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\Azalea\.gradle\caches\transforms-2\files-2.1\ee5f4713388dc2a7e0c3b12831b9b120\jetified-gifdecoder-4.9.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\Azalea\.gradle\caches\transforms-2\files-2.1\2db47abb31c0f73afc7a14fac6bcf653\jetified-gifdecoder-4.9.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\Azalea\.gradle\caches\transforms-2\files-2.1\2db47abb31c0f73afc7a14fac6bcf653\jetified-gifdecoder-4.9.0\AndroidManifest.xml:9:5-20
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.1.0] C:\Users\Azalea\.gradle\caches\transforms-2\files-2.1\9a561d8b045aa4b5db9a341e97c354ca\core-1.1.0\AndroidManifest.xml:24:18-86
+		ADDED from [androidx.core:core:1.3.0] C:\Users\Azalea\.gradle\caches\transforms-2\files-2.1\6f115ff0acd77371b4667173cbcbc63d\core-1.3.0\AndroidManifest.xml:24:18-86
 	android:supportsRtl
 		ADDED from D:\Project\LibraryOwn\piEditor\sample\src\main\AndroidManifest.xml:10:9-35
 	android:label
@@ -84,10 +84,10 @@ MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\Azalea\.gradle
 		ADDED from D:\Project\LibraryOwn\piEditor\sample\src\main\AndroidManifest.xml:6:9-35
 	android:theme
 		ADDED from D:\Project\LibraryOwn\piEditor\sample\src\main\AndroidManifest.xml:11:9-40
-activity#com.pi.cobaeditor.MainActivity2
+activity#com.pi.cobaeditor.MainActivity
 ADDED from D:\Project\LibraryOwn\piEditor\sample\src\main\AndroidManifest.xml:12:9-18:20
 	android:name
-		ADDED from D:\Project\LibraryOwn\piEditor\sample\src\main\AndroidManifest.xml:12:19-65
+		ADDED from D:\Project\LibraryOwn\piEditor\sample\src\main\AndroidManifest.xml:12:19-64
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
 ADDED from D:\Project\LibraryOwn\piEditor\sample\src\main\AndroidManifest.xml:13:13-17:29
 action#android.intent.action.MAIN
@@ -108,14 +108,14 @@ MERGED from [com.github.esafirm.android-image-picker:imagepicker:2.0.0] C:\Users
 MERGED from [com.github.esafirm.android-image-picker:imagepicker:2.0.0] C:\Users\Azalea\.gradle\caches\transforms-2\files-2.1\a9e547da121f7ab85960918ec5a43eef\jetified-imagepicker-2.0.0\AndroidManifest.xml:7:5-9:41
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta4] C:\Users\Azalea\.gradle\caches\transforms-2\files-2.1\540f54a853bb5edcd9a1c3c63390e837\constraintlayout-2.0.0-beta4\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta4] C:\Users\Azalea\.gradle\caches\transforms-2\files-2.1\540f54a853bb5edcd9a1c3c63390e837\constraintlayout-2.0.0-beta4\AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Azalea\.gradle\caches\transforms-2\files-2.1\2ef171d946ef3c69b0399d48f59b4965\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Azalea\.gradle\caches\transforms-2\files-2.1\2ef171d946ef3c69b0399d48f59b4965\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\Azalea\.gradle\caches\transforms-2\files-2.1\e43b58a0f819bcdf02c88e3ffb1ab09f\jetified-glide-4.9.0\AndroidManifest.xml:6:5-8:41
-MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\Azalea\.gradle\caches\transforms-2\files-2.1\e43b58a0f819bcdf02c88e3ffb1ab09f\jetified-glide-4.9.0\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Azalea\.gradle\caches\transforms-2\files-2.1\c827349da947aee444e6dfc3b97bf066\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Azalea\.gradle\caches\transforms-2\files-2.1\c827349da947aee444e6dfc3b97bf066\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\Azalea\.gradle\caches\transforms-2\files-2.1\4759fb75b1d1da3d5921db098379364d\jetified-glide-4.9.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\Azalea\.gradle\caches\transforms-2\files-2.1\4759fb75b1d1da3d5921db098379364d\jetified-glide-4.9.0\AndroidManifest.xml:6:5-8:41
 MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Azalea\.gradle\caches\transforms-2\files-2.1\4abf61e98dffcf84648844046782ee11\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Azalea\.gradle\caches\transforms-2\files-2.1\4abf61e98dffcf84648844046782ee11\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Azalea\.gradle\caches\transforms-2\files-2.1\c4f3ff85513190d384826508de50f7ce\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Azalea\.gradle\caches\transforms-2\files-2.1\c4f3ff85513190d384826508de50f7ce\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Azalea\.gradle\caches\transforms-2\files-2.1\d634f42408898cb209fa505635befd6e\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Azalea\.gradle\caches\transforms-2\files-2.1\d634f42408898cb209fa505635befd6e\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Azalea\.gradle\caches\transforms-2\files-2.1\593cac86af6e6026ab2dc63b4e16c7e7\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Azalea\.gradle\caches\transforms-2\files-2.1\593cac86af6e6026ab2dc63b4e16c7e7\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Azalea\.gradle\caches\transforms-2\files-2.1\11b3dfddab5bfa854539c67b50fb1ae4\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
@@ -144,14 +144,14 @@ MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Azal
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Azalea\.gradle\caches\transforms-2\files-2.1\8f75f46815b4766410c0a405630332d1\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Azalea\.gradle\caches\transforms-2\files-2.1\08c1b51fc1ad0928d0395f5eb26a6929\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Azalea\.gradle\caches\transforms-2\files-2.1\08c1b51fc1ad0928d0395f5eb26a6929\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.1.0] C:\Users\Azalea\.gradle\caches\transforms-2\files-2.1\9a561d8b045aa4b5db9a341e97c354ca\core-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core:1.1.0] C:\Users\Azalea\.gradle\caches\transforms-2\files-2.1\9a561d8b045aa4b5db9a341e97c354ca\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.0] C:\Users\Azalea\.gradle\caches\transforms-2\files-2.1\6f115ff0acd77371b4667173cbcbc63d\core-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.0] C:\Users\Azalea\.gradle\caches\transforms-2\files-2.1\6f115ff0acd77371b4667173cbcbc63d\core-1.3.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Azalea\.gradle\caches\transforms-2\files-2.1\a503fe15e8e6fab0e44226c90dfc50d1\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Azalea\.gradle\caches\transforms-2\files-2.1\a503fe15e8e6fab0e44226c90dfc50d1\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Azalea\.gradle\caches\transforms-2\files-2.1\ae54212dac29ad586b496c7fadefed90\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Azalea\.gradle\caches\transforms-2\files-2.1\ae54212dac29ad586b496c7fadefed90\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\Azalea\.gradle\caches\transforms-2\files-2.1\ee5f4713388dc2a7e0c3b12831b9b120\jetified-gifdecoder-4.9.0\AndroidManifest.xml:5:5-7:41
-MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\Azalea\.gradle\caches\transforms-2\files-2.1\ee5f4713388dc2a7e0c3b12831b9b120\jetified-gifdecoder-4.9.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\Azalea\.gradle\caches\transforms-2\files-2.1\2db47abb31c0f73afc7a14fac6bcf653\jetified-gifdecoder-4.9.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\Azalea\.gradle\caches\transforms-2\files-2.1\2db47abb31c0f73afc7a14fac6bcf653\jetified-gifdecoder-4.9.0\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Azalea\.gradle\caches\transforms-2\files-2.1\59e3df397d2e20dfaa160ebb02a77f32\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Azalea\.gradle\caches\transforms-2\files-2.1\59e3df397d2e20dfaa160ebb02a77f32\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Azalea\.gradle\caches\transforms-2\files-2.1\69e448722340bb8257628160f16241f7\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
